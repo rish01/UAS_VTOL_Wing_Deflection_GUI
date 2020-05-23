@@ -1,6 +1,6 @@
 # Unmanned Aircraft Systems - VTOL Wing Deflection GUI
 
-The purpose of this GUI is to determine the maximum deflection of the carbon fiber boom, which is present inside the wing of UAS VTOL aircraft, during flight.
+The purpose of this GUI is to determine the maximum deflection of the carbon fiber boom, which is present inside the wing of UAS VTOL aircraft, during flight. In addition, it allows the user to quickly visualize the deflection of the boom along its length given fixed inputs. I created this GUI using MATLAB's App Designer.
 
 
 ## Computation of Deflection
@@ -20,6 +20,6 @@ I created a FBD of the carbon fiber boom (assuming one of the ends is fixed) and
 
 ## GUI
 
-In order to enable the user to quickly visualize the deflection of the boom along its length given fixed inputs, I created a GUI using MATLAB's App Designer. Following is a screenshot of the GUI:
+Following is a screenshot of the GUI:
 
 <img src = "https://github.com/rish01/UAS_VTOL_Wing_Deflection_GUI/blob/master/imgs/GUI_screenshot.png" width = 800>
