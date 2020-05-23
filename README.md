@@ -1,4 +1,4 @@
-# UAS VTOL Wing Deflection GUI
+# Unmanned Aircraft Systems - VTOL Wing Deflection GUI
 
 The purpose of this GUI is to determine the maximum deflection of the carbon fiber boom, which is present inside the wing of UAS VTOL aircraft, during flight.
 
