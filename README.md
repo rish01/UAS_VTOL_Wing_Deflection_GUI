@@ -5,7 +5,7 @@ The purpose of this GUI is to determine the maximum deflection of the carbon fib
 
 ## Computation of Deflection
 
-I created a FBD of the carbon fiber boom (assuming one of the ends is fixed) and used Castigliano's theorem to determine the deflection along the length of the beam. Following are the inputs into the model:
+I created a FBD of the carbon fiber boom (assuming one of the ends is fixed) and used Castigliano's theorem to determine the deflection along the length of the boom. Following are the inputs into the model:
 1. Total mass of airframe [kg]
 2. Total mass of components mounted on wings [kg]
 3. Distance of center of mass of components from fuselage's center [m]
